@@ -1,0 +1,38 @@
+.embaixo{
+    background-color:rgb(77, 77, 92);
+    color: rgb(255, 255, 255);
+    align-items: center;
+    padding: 15px 700px;
+    margin-top: 400px;
+    position: relative;
+    left: 20px;
+    height: 190px;
+   
+}
+
+.texto1{
+    position: relative;
+    z-index: 2;
+    bottom: 50px;
+    font-size: 14px;
+    white-space: nowrap;
+    margin-top: 50px;
+    right: 250px;
+
+}
+
+.texto2{
+    position: relative;
+    z-index: 1000;
+    bottom: 50px;
+    font-size: 14px;
+    font-weight: bold;
+    white-space: nowrap;
+    margin-top: 10px;
+}
+
+.milinha{
+    position: relative;
+    left: 500px;
+    top: 80px;
+}
